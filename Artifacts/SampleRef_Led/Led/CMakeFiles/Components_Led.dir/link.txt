@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../../lib/Linux/libComponents_Led.a CMakeFiles/Components_Led.dir/Led.cpp.o CMakeFiles/Components_Led.dir/LedComponentAc.cpp.o
+/usr/bin/ranlib ../../lib/Linux/libComponents_Led.a

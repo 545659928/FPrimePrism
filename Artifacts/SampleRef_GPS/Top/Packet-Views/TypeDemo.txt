@@ -1,0 +1,5 @@
+typeDemo.ChoiceCh
+typeDemo.ChoicesCh
+typeDemo.ExtraChoicesCh
+typeDemo.ChoicePairCh
+typeDemo.ChoiceSlurryCh

@@ -1,0 +1,3 @@
+/home/toshi/Documents/univ/Lab/fprime/fprime-tutorial-hello-world/fprime/Fw/Buffer/Buffer.fpp
+/home/toshi/Documents/univ/Lab/fprime/fprime-tutorial-hello-world/fprime/Fw/Log/Log.fpp
+/home/toshi/Documents/univ/Lab/fprime/fprime-tutorial-hello-world/fprime/config/AcConstants.fpp

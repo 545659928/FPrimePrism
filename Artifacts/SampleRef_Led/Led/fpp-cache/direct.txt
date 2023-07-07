@@ -1,0 +1,8 @@
+/home/fprime/.ssh/fprime-workshop-led-blinker/fprime/Drv/GpioDriverPorts/GpioDriverPorts.fpp
+/home/fprime/.ssh/fprime-workshop-led-blinker/fprime/Fw/Cmd/Cmd.fpp
+/home/fprime/.ssh/fprime-workshop-led-blinker/fprime/Fw/Log/Log.fpp
+/home/fprime/.ssh/fprime-workshop-led-blinker/fprime/Fw/Prm/Prm.fpp
+/home/fprime/.ssh/fprime-workshop-led-blinker/fprime/Fw/Time/Time.fpp
+/home/fprime/.ssh/fprime-workshop-led-blinker/fprime/Fw/Tlm/Tlm.fpp
+/home/fprime/.ssh/fprime-workshop-led-blinker/fprime/Fw/Types/Types.fpp
+/home/fprime/.ssh/fprime-workshop-led-blinker/fprime/Svc/Sched/Sched.fpp

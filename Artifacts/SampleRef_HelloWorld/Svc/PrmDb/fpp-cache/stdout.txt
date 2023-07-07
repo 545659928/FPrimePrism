@@ -1,0 +1,6 @@
+/home/toshi/Documents/univ/Lab/fprime/fprime-tutorial-hello-world/fprime/Fw/Cmd/Cmd.fpp
+/home/toshi/Documents/univ/Lab/fprime/fprime-tutorial-hello-world/fprime/Fw/Log/Log.fpp
+/home/toshi/Documents/univ/Lab/fprime/fprime-tutorial-hello-world/fprime/Fw/Prm/Prm.fpp
+/home/toshi/Documents/univ/Lab/fprime/fprime-tutorial-hello-world/fprime/Fw/Time/Time.fpp
+/home/toshi/Documents/univ/Lab/fprime/fprime-tutorial-hello-world/fprime/Svc/Ping/Ping.fpp
+/home/toshi/Documents/univ/Lab/fprime/fprime-tutorial-hello-world/fprime/config/FpConfig.fpp

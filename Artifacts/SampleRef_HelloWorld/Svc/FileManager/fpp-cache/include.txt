@@ -1,0 +1,3 @@
+/home/toshi/Documents/univ/Lab/fprime/fprime-tutorial-hello-world/fprime/Svc/FileManager/Commands.fppi
+/home/toshi/Documents/univ/Lab/fprime/fprime-tutorial-hello-world/fprime/Svc/FileManager/Events.fppi
+/home/toshi/Documents/univ/Lab/fprime/fprime-tutorial-hello-world/fprime/Svc/FileManager/Telemetry.fppi

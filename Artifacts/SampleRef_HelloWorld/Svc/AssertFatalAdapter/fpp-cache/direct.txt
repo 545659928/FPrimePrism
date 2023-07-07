@@ -1,0 +1,2 @@
+/home/toshi/Documents/univ/Lab/fprime/fprime-tutorial-hello-world/fprime/Fw/Log/Log.fpp
+/home/toshi/Documents/univ/Lab/fprime/fprime-tutorial-hello-world/fprime/Svc/AssertFatalAdapter/AssertFatalEvents.fppi

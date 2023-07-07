@@ -1,0 +1,6 @@
+[submodule "Artifacts/fprime-layout"]
+	path = Artifacts/fprime-layout
+	url = git@github.com:fprime-community/fprime-layout.git
+[submodule "Artifacts/fprime-visual"]
+	path = Artifacts/fprime-visual
+	url = git@github.com:fprime-community/fprime-visual.git

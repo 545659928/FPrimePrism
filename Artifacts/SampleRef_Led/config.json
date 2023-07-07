@@ -1,0 +1,22 @@
+{
+    "segment": {
+        "ground_segments": [
+            "fatalAdapter",
+            "eventLogger",
+            "cmdDisp",
+            "fatalHandler",
+            "tlmSend",
+            "comm",
+            "health",
+            "uplink",
+            "fileManager",
+            "staticMemory",
+            "prmDb",
+            "cmdSeq",
+            "fileUplinkBufferManager",
+            "sendBuffComp",
+            "systemResources",
+            "textLogger"
+        ]
+    }
+}
