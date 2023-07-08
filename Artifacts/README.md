@@ -10,7 +10,6 @@
 ## Setup
  
 1. Modify *.config* if you need
-   * Source F' project path
    * Browser's default download path
 
 2. `$ bash install.sh`
@@ -49,5 +48,9 @@ e.g.
 ## Usage
 
 1. Copy your *F Prime* proj folder in root
-2. `$ bash run.sh`
-3. Drag & drop the target *P Prime* proj specified in *.config*
+2. Change source F' project path in *.config*
+3. `$ bash run.sh`
+4. Drag & drop the target *P Prime* proj specified in *.config*
+
+## Notes
+* Due to the concept of realizing this tool as web app, this tool will download topology file everytime you change the view
